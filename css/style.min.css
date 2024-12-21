@@ -135,7 +135,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .menu__item:nth-child(3) .menu__link::before {
-    content: "Dextools"
+    content: "Dexscreener"
 }
 
 .menu__item:nth-child(4) .menu__link::before {
